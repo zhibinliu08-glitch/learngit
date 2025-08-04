@@ -5,5 +5,6 @@ add a 4th file
 5th line
 git tracks changes of file.sdfsdf
 create a branch.
+fix the bug now.
 this is modified in master.
 create a new branch is quick and simple.
