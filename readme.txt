@@ -3,3 +3,4 @@ i insert 1 line here
 the second line.
 add a 4th file
 5th line
+git tracks change.
