@@ -7,5 +7,7 @@ git tracks changes of file.sdfsdf
 create a branch.
 this is modified in master.
 tot modified again,use for cheerpick
+abc
+def
 create a new branch is quick and simple.
 tot modified
